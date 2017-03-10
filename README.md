@@ -1,5 +1,5 @@
-# EYCASH---New
-EYCASH - New
+# EYCash
+Front-end for the EY CASH web application.
 
 
-This is a copy of EY Cash.
+http://cashdemowap-eycashdemodev.azurewebsites.net
